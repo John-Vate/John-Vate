@@ -1,4 +1,4 @@
-  <img align="right" alt="Logo-Worki" height="100" style="border-radius:50px;" src="https://github.com/John-Vate/worki/blob/main/assets/logo500px.png?raw=true">
+  <a href="https://github.com/John-Vate/Worki"><img align="right" alt="Logo-Worki" height="100" style="border-radius:50px;" src="https://github.com/John-Vate/worki/blob/main/assets/logo500px.png?raw=true">
 
   ## Olá sou o John Vate, desenvolvedor do projeto Worki
 

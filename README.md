@@ -22,4 +22,4 @@
   ##
 
   
-  <a href="https://john-vate.netlify.app/" target="_blank" >Veja alguns poemas</a>
+  <a href="https://john-vate.netlify.app/" target="blank" >Veja alguns poemas</a>

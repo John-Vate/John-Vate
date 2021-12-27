@@ -1,6 +1,8 @@
   <a href="https://github.com/John-Vate/Worki"><img align="right" alt="Logo-Worki" height="100" style="border-radius:50px;" src="https://github.com/John-Vate/worki/blob/main/assets/logo500px.png?raw=true">
 
-  ## Olá sou o John Vate, desenvolvedor do projeto Worki
+  ## Olá sou o John Vate,
+  Sou Poeta, designer e amante do conhecimento.
+  Atualmente trabalho no desenvolvimento do Projeto Worki, Venha conhecer ;)
 
 
   <a href="https://api.whatsapp.com/send?phone=5535984016393" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>

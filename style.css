@@ -314,7 +314,7 @@ ul{
     list-style: none;
 }
 body{
-    background-image: url(fundo.png);
+    background-color: black;
     background-size: cover;
     background-repeat: no-repeat;
     color: #fff;
